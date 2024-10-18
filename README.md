@@ -1,6 +1,8 @@
 # PiEEG_Kit
 
-
+#### Pinout between Pi and PiEEG  
+ 
+![alt tag](https://github.com/pieeg-club/PiEEG/blob/main/images/pins2.bmp "spi")
 
 #### Warnings
 >[!WARNING]

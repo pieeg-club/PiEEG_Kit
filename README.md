@@ -4,6 +4,13 @@
  
 ![alt tag](https://github.com/pieeg-club/PiEEG/blob/main/images/pins2.bmp "spi")
 
+
+#### General view of PiEEG
+![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/pieeg.jpg "spi")
+
+
+
+
 #### Warnings
 >[!WARNING]
 > PiEEG kit (PiEEG) is not medical device. You are fully responsible for your personal decision to purchase this device and, ultimately, for its safe use. PiEEG is not a medical device and has not been certified by any government regulatory agency for use with the human body. Use it at your own risk.  

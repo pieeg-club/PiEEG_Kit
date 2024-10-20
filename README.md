@@ -1,4 +1,5 @@
 # PiEEG_Kit
+PiEEG_Kit is all in one kit to easily measure and learn bioscience   
 
 #### Pinout between Pi and PiEEG  
  

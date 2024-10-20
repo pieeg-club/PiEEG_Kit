@@ -7,7 +7,8 @@ These scripts can be easily adapted for users' specific scenarios.
 
 # Software 
 
-#### Pinout between Pi and PiEEG  
+
+# Pinout between Pi and PiEEG  
  
 ![alt tag](https://github.com/pieeg-club/PiEEG/blob/main/images/pins2.bmp "spi")
 

@@ -1,6 +1,12 @@
 # PiEEG_Kit
 PiEEG_Kit is all in one kit to easily measure and learn bioscience   
 
+# SDK 
+The SDK is located on GitHub at https://github.com/pieeg-club/PiEEG_Kit/tree/main/SDK. We provide Python scripts for data visualization and data saving.  
+These scripts can be easily adapted for users' specific scenarios.  
+
+# Software 
+
 #### Pinout between Pi and PiEEG  
  
 ![alt tag](https://github.com/pieeg-club/PiEEG/blob/main/images/pins2.bmp "spi")

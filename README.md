@@ -5,10 +5,10 @@ PiEEG_Kit is all in one kit to easily measure and learn bioscience
 The SDK is located on GitHub at https://github.com/pieeg-club/PiEEG_Kit/tree/main/SDK. We provide Python scripts for data visualization and data saving.  
 These scripts can be easily adapted for users' specific scenarios.  
 
-# Software 
+## Software 
 
 
-# Pinout between Pi and PiEEG  
+## Pinout between Pi and PiEEG  
  
 ![alt tag](https://github.com/pieeg-club/PiEEG/blob/main/images/pins2.bmp "spi")
 
@@ -19,7 +19,7 @@ These scripts can be easily adapted for users' specific scenarios.
 
 
 
-#### Warnings
+## Warnings
 >[!WARNING]
 > PiEEG kit (PiEEG) is not medical device. You are fully responsible for your personal decision to purchase this device and, ultimately, for its safe use. PiEEG is not a medical device and has not been certified by any government regulatory agency for use with the human body. Use it at your own risk.  
 

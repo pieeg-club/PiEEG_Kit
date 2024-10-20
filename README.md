@@ -5,7 +5,7 @@
 ![alt tag](https://github.com/pieeg-club/PiEEG/blob/main/images/pins2.bmp "spi")
 
 
-#### General view of PiEEG
+#### General view of PiEEG device  
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/pieeg.jpg "spi")
 
 

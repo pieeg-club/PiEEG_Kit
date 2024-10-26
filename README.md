@@ -13,10 +13,11 @@ These scripts can be easily adapted for users' specific scenarios.
 ![alt tag](https://github.com/pieeg-club/PiEEG/blob/main/images/pins2.bmp "spi")
 
 
-#### General view of PiEEG device  
-![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/pieeg.jpg "spi")
+#### General view of the PiEEG device  
+![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/pieeg.jpg "PiEEG")
 
-
+#### Box Dimension
+![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/piieg_size.jpg "Size")
 
 
 ## Warnings

@@ -14,6 +14,7 @@ Connection beetwen Pi and PiEEG via SPI protocol and Power(5V and GND)
 
 
 #### General view of the PiEEG device  
+PiEEG is one of the main component of the Kit responsible for converts analog signals to digital signals via 24 bit resolution analog-digital converter ADS1299 from TI 
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/pieeg.jpg "PiEEG")
 
 #### Box Dimension

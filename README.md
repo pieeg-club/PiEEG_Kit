@@ -27,7 +27,7 @@ PiEEG is one of the main component of the Kit responsible for converts analog si
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/pieeg.jpg "PiEEG")
 
 #### Box Dimension
-Box is primarily made of ABS plastic. This material is noted for its durability and strength, making it suitable for protecting the contents during shipping and use. The overall design aims to be robust enough to withstand rough handling, ensuring that the device remains safe inside the packaging.
+Box is primarily made of ABS plastic. This material is noted for its durability and strength, making it suitable for protecting the contents during shipping and use. The overall design aims to be robust enough to withstand rough handling, ensuring that the device remains safe inside the packaging. The development board is made of hasl lead free FR-4. All the materials we use are non-toxic  
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/pieeg_size.jpg "Size")
 
 #### Citing 

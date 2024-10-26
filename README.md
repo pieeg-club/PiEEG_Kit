@@ -3,8 +3,10 @@ PiEEG_Kit is all in one kit to easily measure and learn bioscience
 
 -  [SDK](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#sdk)
 -  [Software](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#software)
-
-
+-  [Pinout between Pi and PiEEG](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#pinout-between-pi-and-pieeg)  
+-  [General view of the PiEEG device](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#general-view-of-the-pieeg-device)  
+-  [Box Dimension](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#box-dimension)  
+-  [Warnings](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#warnings)  
 
 
 ## SDK 

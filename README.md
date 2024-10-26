@@ -1,5 +1,6 @@
 # PiEEG_Kit
 PiEEG_Kit is all in one kit to easily measure and learn bioscience   
+
 Content
 -  [SDK](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#sdk)
 -  [Software](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#software)

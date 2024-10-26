@@ -34,3 +34,4 @@ exceed the total amount paid by the end user for the products.
 This is not a device made for consumer home use. The internal electronics are exposed during normal operation to facilitate easy access by developers and professionals.
 As such, you must be aware of the hazards of operating exposed electronics, and are familiar with standard anti-static procedures for handling bare electrical components, or be prepared to make your own case.
 There is no patient isolation circuitry on the device, so again, you must be sure to operate the PiEEG kit and all connected devices from 5V battery power.
+

@@ -17,7 +17,7 @@ These scripts can be easily adapted for users' specific scenarios.
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/pieeg.jpg "PiEEG")
 
 #### Box Dimension
-![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/piieg_size.jpg "Size")
+![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/pieeg_size.jpg "Size")
 
 
 ## Warnings

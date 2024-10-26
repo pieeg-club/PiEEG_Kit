@@ -1,7 +1,7 @@
 # PiEEG_Kit
 PiEEG_Kit is all in one kit to easily measure and learn bioscience   
 
--  [SDK] (https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#sdk)
+-  [SDK](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#sdk)
 
   -  [A warning!!](https://github.com/Ildaron/Laser_control#a-warning)
 

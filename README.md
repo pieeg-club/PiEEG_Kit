@@ -1,7 +1,7 @@
 # PiEEG_Kit
 PiEEG_Kit is all in one kit to easily measure and learn bioscience   
 
--  SDK (https://github.com/Ildaron/Laser_control#a-warning)
+-  SDK (https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#sdk)
 
 ## SDK 
 The SDK is located on GitHub at https://github.com/pieeg-club/PiEEG_Kit/tree/main/SDK. We provide Python scripts for data visualization and data saving.  

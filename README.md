@@ -1,7 +1,7 @@
 # PiEEG_Kit
 PiEEG_Kit is all in one kit to easily measure and learn bioscience   
 
-![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/pieeg_kit.png "General View")
+![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/pieeg_kit_1.png "General View")
 
 
 Content

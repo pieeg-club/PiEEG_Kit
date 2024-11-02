@@ -15,6 +15,9 @@ Content
 
 ## Application   
 
+![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/application.png "Application")
+
+
 ## SDK 
 The SDK is located on GitHub at https://github.com/pieeg-club/PiEEG_Kit/tree/main/SDK. We provide Python scripts for data visualization and data saving.  
 These scripts can be easily adapted for users' specific scenarios.  

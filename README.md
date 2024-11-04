@@ -14,7 +14,7 @@ Content
 -  [Warnings](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#warnings)  
 
 
-## Application   
+## Potential Application   
 
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/application.png "Application")
 

@@ -5,7 +5,7 @@ Measure EEG, EMG and body and env sensors all in one box
 
 
 Content
-- [Application](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#application)
+- [Application](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#potential-application)
 - [Connection](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#connection)
 -  [SDK](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#sdk)
 -  [Software](https://github.com/pieeg-club/PiEEG_Kit?tab=readme-ov-file#software)

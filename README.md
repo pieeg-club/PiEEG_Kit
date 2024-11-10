@@ -20,8 +20,10 @@ Content
 
 ## Connection
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/connection.jpeg "Connection")
-
-
+Two power cables one for the RaspberryPi and one for the Screen.   
+10 ch for EEG measurements.   
+4 ch for EOG, ECG, EMG.  
+SPI, GPIO (6 ch), serial, and 3 buttons are available for user applications.   
 
 
 ## SDK 

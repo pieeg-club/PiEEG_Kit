@@ -33,6 +33,21 @@ These scripts can be easily adapted for users' specific scenarios.
 
 ## Software 
 
+## Signal test
+#### Alpha 
+![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/alpha.bmp "aloha")
+
+#### Artefacts (chewing and bkinking)
+![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/artefacts.bmp "artefacts")
+
+#### EMG
+![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/EMG.jpeg "emg")
+
+#### EKG
+![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/heart.bmp "heart")
+
+
+
 
 ## Pinout between Pi and PiEEG  
 Connection beetwen Pi and PiEEG via SPI protocol and Power(5V and GND)  

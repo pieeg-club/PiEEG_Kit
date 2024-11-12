@@ -35,7 +35,7 @@ These scripts can be easily adapted for users' specific scenarios.
 
 ## Signal test
 #### Alpha 
-<img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/alpha.bmp" alt="alt tag" title="aloha" width="300">
+<img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/alpha.bmp" alt="alt tag" title="aloha" width="900">
 
 #### Artefacts (chewing and bkinking)
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/artefacts.bmp "artefacts")

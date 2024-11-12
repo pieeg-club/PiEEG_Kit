@@ -46,7 +46,7 @@ These scripts can be easily adapted for users' specific scenarios.
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/EMG.jpeg "emg")
 
 #### EKG
-<img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/heart.bmp" alt="alt tag" title="artefacts" width="1200">
+<img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/heart1.bmp" alt="alt tag" title="artefacts" width="1200">
 
 
 
@@ -68,7 +68,7 @@ In Progress
 
 ## Warnings
 >[!WARNING]
-> PiEEG kit (PiEEG) is not medical device. You are fully responsible for your personal decision to purchase this device and, ultimately, for its safe use. PiEEG is not a medical device and has not been certified by any government regulatory agency for use with the human body. Use it at your own risk.  
+> PiEEG kit (PiEEG) is not a medical device. You are fully responsible for your personal decision to purchase this device and, ultimately, for its safe use. PiEEG is not a medical device and has not been certified by any government regulatory agency for use with the human body. Use it at your own risk.  
 
 >[!CAUTION]
 > The device must operate only from a battery - 5 V. Complete isolation from the mains power is required.! The device MUST not be connected to any kind of mains power, via USB or otherwise.   

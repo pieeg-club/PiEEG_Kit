@@ -38,7 +38,9 @@ These scripts can be easily adapted for users' specific scenarios.
 <img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/alpha.bmp" alt="alt tag" title="aloha" width="1200">
 
 #### Artefacts (chewing and bkinking)
-![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/artefacts.bmp "artefacts")
+
+<img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/artefacts.bmp" alt="alt tag" title="artefacts" width="1200">
+
 
 #### EMG
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/EMG.jpeg "emg")

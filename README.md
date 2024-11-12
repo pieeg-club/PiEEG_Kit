@@ -46,8 +46,7 @@ These scripts can be easily adapted for users' specific scenarios.
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/EMG.jpeg "emg")
 
 #### EKG
-![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/heart.bmp "heart")
-
+<img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/heart.bmp" alt="alt tag" title="artefacts" width="1200">
 
 
 

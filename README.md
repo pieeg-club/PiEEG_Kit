@@ -34,18 +34,18 @@ These scripts can be easily adapted for users' specific scenarios.
 ## Software 
 
 ## Signal test
-#### Alpha 
+#### Alpha in EEG signal
 <img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/alpha.bmp" alt="alt tag" title="aloha" width="1200">
 
-#### Artefacts (chewing and bkinking)
+#### Artefacts (chewing and bkinking) in EEG signal
 
 <img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/artefacts.bmp" alt="alt tag" title="artefacts" width="1200">
 
 
-#### EMG
+#### EMG signal
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/EMG.jpeg "emg")
 
-#### EKG
+#### EKG signal 
 <img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/heart1.bmp" alt="alt tag" title="artefacts" width="1200">
 
 

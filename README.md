@@ -1,5 +1,10 @@
 # PiEEG_Kit
-PiEEG_Kit is all in one kit to easily measure and learn bioscience   
+PiEEG_Kit is all in one kit to easily measure and learn bioscience  
+We are in 
+![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/logo.png "General View")
+
+
+
 Measure EEG, EMG and body and env sensors all in one box  
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/main.jpg "General View")
 

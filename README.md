@@ -3,6 +3,7 @@ PiEEG_Kit is all in one kit to easily measure and learn bioscience
 We are in 
 [![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/logos.png "General View")](https://pieeg.com)
 
+Follow us in [Linkedin](https://www.linkedin.com/company/pieeg)
 
 
 Measure EEG, EMG and body and env sensors all in one box  
@@ -80,6 +81,6 @@ In Progress
 > Power supply - only battery 5V, please read the [liability](https://pieeg.com/liability/)
 
 Contact pieeg@pieeg.com 
+https://pieeg.com/  
  
-[Linkedin](https://www.linkedin.com/company/pieeg)
 

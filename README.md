@@ -70,7 +70,9 @@ Box is primarily made of ABS plastic. This material is noted for its durability 
 ![alt tag](https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/pieeg_size.jpg "Size")
 
 #### Citing 
-In Progress 
+I. Rakhmayilin (2025). PiEEG kit -- bioscience Lab in home for your Brain and Body. arXiv:2503.13482 
+
+https://arxiv.org/abs/2503.13482  
 
 ## Warnings
 >[!WARNING]

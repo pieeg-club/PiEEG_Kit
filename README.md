@@ -1,6 +1,6 @@
 # PiEEG_Kit Bio LAb in home for your Brain and Body 
 PiEEG_Kit is all in one kit to easily measure and learn bioscience  
-
+[![PiEEG Demo Video](https://img.youtube.com/vi/hFEF7NFFbZ8/0.jpg)](https://youtu.be/hFEF7NFFbZ8)  
 [Intro video in the YouTube](https://youtu.be/hFEF7NFFbZ8)  
 [What inside PiEEG in the YouTube](https://youtu.be/vVgMHCaZgIQ)  
 Available in  

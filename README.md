@@ -57,7 +57,7 @@ These scripts can be easily adapted for users' specific scenarios.
 
 
 ## Pinout between Pi and PiEEG  
-Connection beetwen Pi and PiEEG via SPI protocol and Power(5V and GND)  
+Connection between Pi and PiEEG via SPI protocol and Power(5V and GND)  
 ![alt tag](https://github.com/pieeg-club/PiEEG/blob/main/images/pins2.bmp "spi")
 
 

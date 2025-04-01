@@ -1,5 +1,5 @@
 # How to Use Machine Learning to Stress Control via EEG 
-Full details can be found via the next [link](https://pieeg.com/news/instruction-how-to-use-machine-learning-to-stress-or-emoinal-control-via-eeg/)  
+Full story can be found via the next [link](https://pieeg.com/news/instruction-how-to-use-machine-learning-to-stress-or-emoinal-control-via-eeg/)    
 
 If you want to create an EEG-based classifier for machine learning, here’s a short guide:
 

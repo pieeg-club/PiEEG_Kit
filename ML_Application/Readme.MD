@@ -19,7 +19,7 @@ Data has the next Format in the Excel File (example of dataset)
 You need (as an example), gather 50 datasets (1 minute or more each) for stress and 50 datasets (1 minute or more each) for no stress conditions.  
 
 #### 2. Compute Power in Key Frequency Bands:
-It is not good to just use raw data for ML, so via the next script [2.Convert_to_Power_Alpha.py](https://github.com/pieeg-club/PiEEG-16/blob/main/ML_Application/2.Convert_to_Power_Alpha.py) you can convert all your dataset. 
+It is not good to just use raw data for ML, so via the next script [2.Convert_to_Power_Alpha.py](https://github.com/pieeg-club/PiEEG_Kit/blob/main/ML_Application/2.Convert_to_Power_Alpha.py) you can convert all your dataset. 
 
 You need calculate power in the alpha (or beta, delta, and theta) frequency for all 100 datasets. 
 We chose a 1 sec length to calculate power in alpha. 
@@ -32,7 +32,7 @@ It should look like that
 
 #### 4. Train the Classifier:
 
-Use the ML script [3.ML.py](https://github.com/pieeg-club/PiEEG-16/blob/main/ML_Application/3.ML.py) to train a model and classify stress levels based on EEG data.
+Use the ML script [3.ML.py](https://github.com/pieeg-club/PiEEG_Kit/blob/main/ML_Application/3.ML.py) to train a model and classify stress levels based on EEG data.
 
 🚀 Enjoy building your classifier!
 

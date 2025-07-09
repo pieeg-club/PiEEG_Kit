@@ -42,7 +42,7 @@ Use the ML script [3.ML.py](https://github.com/pieeg-club/PiEEG_Kit/blob/main/ML
 
 As a result, you receive 
 <p align="center">
-  <img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/python_ML.jpg" alt="generals view">
+  <img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/DLpy.jpg" alt="generals view">
 </p>
 
 🚀 Enjoy building your classifier!

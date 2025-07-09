@@ -27,7 +27,7 @@ As a result, you receive
 </p>
 
 
-#### 3. Prepare the Data for ML
+#### 3. Prepare the Data for DL
 Combine the 50 datasets for stress and not stress  into  two separate Excel files for stress and not stress. But the most important moment here is that you should add an additional column that will indicate the record number (entry number or subject number).  
 It should look like that 
 

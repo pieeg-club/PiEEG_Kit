@@ -45,6 +45,9 @@ As a result, you receive
   <img src="https://github.com/pieeg-club/PiEEG_Kit/blob/main/images/DLpy.jpg" alt="generals view">
 </p>
 
+Test Accuracy 0.81 
+Cross-Validation Accuracy 0.67 +_ 0.22
+
 🚀 Enjoy building your classifier!
 
 
